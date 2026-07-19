@@ -1,5 +1,9 @@
 # Samvad – Civic Connect Platform (MERN Edition) 🏛️
 
+🌐 **Live Demo:** Coming Soon
+
+💻 **GitHub Repository:** https://github.com/srikanthnas/Samvad
+
 [![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://react.dev/)
 [![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://nodejs.org/)
 [![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)](https://expressjs.com/)
