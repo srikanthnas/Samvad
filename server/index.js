@@ -8,7 +8,12 @@ const PORT = process.env.PORT || 5000;
 
 // CORS Configuration
 const corsOptions = {
-  origin: [process.env.FRONTEND_URL || 'http://localhost:8080', 'https://samvad-civic-connect-v2.vercel.app'],
+  origin: [
+    process.env.FRONTEND_URL,
+    'https://samvad-ten.vercel.app',
+    'http://localhost:5173'
+  ],
+  credentials: true,
   optionsSuccessStatus: 200
 };
 
