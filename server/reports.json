@@ -1,0 +1,18 @@
+[
+  {
+    "id": "RPT637",
+    "title": "New civic issue report",
+    "description": "Persistent Backend Test",
+    "category": "Other",
+    "priority": 2,
+    "status": "Submitted",
+    "location": {
+      "lat": 12.97091253366082,
+      "lng": 77.50386854249128,
+      "address": "ITI Layout, Mallathahalli, Bengaluru West City Corporation, Bengaluru, Bangalore North, Bengaluru Urban, Karnataka, 560091, India"
+    },
+    "userId": "citizen1",
+    "createdAt": "2026-05-01T19:27:42.697Z",
+    "updatedAt": "2026-05-01T19:27:42.697Z"
+  }
+]
