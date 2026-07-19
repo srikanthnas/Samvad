@@ -4,6 +4,9 @@ require('dotenv').config();
 // Use MONGO_URI from env, fallback to a local MongoDB instance
 const mongoUri = process.env.MONGO_URI || 'mongodb://localhost:27017/samvad';
 
+console.log("MONGO_URI =", process.env.MONGO_URI);
+console.log("Using URI =", mongoUri);
+
 const ReportSchema = new mongoose.Schema({
   id: {
     type: String,
@@ -82,7 +85,9 @@ const Report = mongoose.models.Report || mongoose.model('Report', ReportSchema);
 
 const initDB = async () => {
   try {
-    await mongoose.connect(mongoUri);
+    await mongoose.connect(mongoUri, {
+      family: 4
+    });
     console.log('MongoDB connection established successfully.');
   } catch (error) {
     console.error('Unable to connect to MongoDB:', error);
