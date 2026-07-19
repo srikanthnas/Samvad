@@ -1,6 +1,10 @@
 # Samvad – Civic Connect Platform (MERN Edition) 🏛️
 
-🌐 **Live Demo:** Coming Soon
+## Live Demo
+
+Frontend: https://samvad-ten.vercel.app/
+
+Backend API: https://samvad-backend-ajt5.onrender.com/
 
 💻 **GitHub Repository:** https://github.com/srikanthnas/Samvad
 
