@@ -31,42 +31,19 @@ The migration of the Samvad platform backend brings significant architectural be
 ## 📸 Application Screenshots
 
 ### 🏠 Home Page
+![Home](screenshots/Home.png)
 
-![Home Page](screenshots/Login%20page(1).png)
-
-The landing page introduces the Samvad platform, highlighting key features such as AI-assisted issue reporting, transparent tracking, and community engagement.
-
----
-
-### 📝 Report an Issue
-
-![Report Issue](screenshots/Issue%20report(1).png)
-
-Citizens can submit civic complaints by uploading photos, providing descriptions, and reporting the issue location.
-
----
+### 📝 Report Issue
+![Report Issue](screenshots/ReportIssue.png)
 
 ### 📋 Citizen Dashboard
+![Citizen Dashboard](screenshots/CitizenDashboard.png)
 
-![Citizen Dashboard](screenshots/citizen%20dashboard(1).png)
-
-Users can monitor all submitted reports, track progress in real time, and access detailed issue information.
-
----
-
-### 📍 Issue Details & Tracking
-
-![Issue Details](screenshots/repoted%20issue(1).png)
-
-Detailed issue page showing location, category, priority, status timeline, and interactive map for precise tracking.
-
----
+### 📍 Issue Details
+![Issue Details](screenshots/IssueDetails.png)
 
 ### 🛠️ Admin Dashboard
-
-![Admin Dashboard](screenshots/admin%20dashboard(2).png)
-
-Government authorities can manage complaints, assign tasks, update issue status, and monitor overall platform activity.
+![Admin Dashboard](screenshots/AdminDashboard.png)
 
 ## 🚀 Key Features
 
