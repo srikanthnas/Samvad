@@ -69,7 +69,7 @@ The migration of the Samvad platform backend brings significant architectural be
 ## 📂 Folder Structure
 
 ```
-samvad-civic-connect-mern/
+Samvad/
 ├── public/                 # Static public assets
 ├── src/                    # React Frontend
 │   ├── components/         # Reusable UI (Hero, CivicMap, IssueCard, Header, etc.)
@@ -100,8 +100,8 @@ samvad-civic-connect-mern/
 ### 2. Repository Setup
 Clone the repository and install root dependencies:
 ```bash
-git clone https://github.com/0Harsha03/samvad-mern.git
-cd samvad-mern
+git clone https://github.com/srikanthnas/Samvad.git
+cd Samvad
 ```
 
 ### 3. Backend Setup
